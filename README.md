@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, 👋 I'm Srikanth Padmanabhuni </h1>
+<h1 align="center"> Hi, <img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48"> I'm Srikanth Padmanabhuni </h1>
 
 <p align="center">
   <img src="https://storage.googleapis.com/myanatomy-main/questionImagesd8e722c6-c874-4644-8510-de8add7194c5_USER-RecruiterCopy_ITEM-Sri.jpeg" width="100%" title="Srikanth Padmanabhuni">
@@ -6,13 +6,14 @@
 <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-developer-devops-flat-flat-juicy-fish-2.png"/>
 </p>
 
-<hr/>
 
-- 🔭 I’m currently working on <b>Java, Angular, Hibernate, REST APIs, NodeJs</b>
-- 🌱 I’m currently learning <b>AWS, ML</b>
-- 👯 I’m looking to collaborate on <b>Freelancing and support for projects.</b>
-- 📫 How to reach me: sripadmanabhuni.freelancing@gmail.com
-- 😄 Pronouns: He/Him/His/Dude/Bro :stuck_out_tongue_winking_eye:
+<h3> :blush: Briefly </h3>
+<hr/>
+- 🔭 I’m currently working on <b>Java, Angular, Hibernate, REST APIs, NodeJs</b> <br/>
+- 🌱 I’m currently learning <b>AWS, ML</b> <br/>
+- 👯 I’m looking to collaborate on <b>Freelancing and support for projects.</b> <br/>
+- 📫 How to reach me: sripadmanabhuni.freelancing@gmail.com <br/>
+- 😄 Pronouns: He/Him/His/Dude/Bro :stuck_out_tongue_winking_eye: <br/>
 
 <br/>
 
