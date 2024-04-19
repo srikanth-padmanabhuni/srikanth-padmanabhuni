@@ -1,8 +1,7 @@
 <h1 align="center"> Hi, <img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48"> I'm Srikanth Padmanabhuni </h1>
 
 <p align="center">
-<!--   <img src="https://storage.googleapis.com/myanatomy-main/questionImagesd8e722c6-c874-4644-8510-de8add7194c5_USER-RecruiterCopy_ITEM-Sri.jpeg" width="100%" title="Srikanth Padmanabhuni"> -->
-  <img src="https://storage.googleapis.com/myanatomy-main/questionImages53a36e0d-f785-4b7f-8d65-02988bb7539d_USER-RecruiterCopy_ITEM-IMG_20221030_023856.jpg" width="100%" title="Srikanth Padmanabhuni">
+  <img src="https://storage.googleapis.com/myanatomy-main/questionImagesd8e722c6-c874-4644-8510-de8add7194c5_USER-RecruiterCopy_ITEM-Sri.jpeg" width="100%" title="Srikanth Padmanabhuni">
 <span style="color: blue;"> <b> A Enthusiastic Full Stack Developer </b></span> <br/>
 <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-developer-devops-flat-flat-juicy-fish-2.png"/>
 </p>
