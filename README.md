@@ -20,7 +20,7 @@
 <h3> :link: Catch me on </h3>
 <hr/>
 <a href="https://www.linkedin.com/in/srikanthpadmanabhuni/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"> </a>
-<a href="https://www.instagram.com/srikanth_5b0/"> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/> </a>
+<a href="https://www.instagram.com/lalitha_nandan_srikanth/"> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/> </a>
 <a href="https://github.com/srikanth-padmanabhuni/"> <img src="https://img.icons8.com/bubbles/48/000000/github.png"/> </a>
 
 <br/><br/>
